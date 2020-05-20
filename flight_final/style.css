@@ -1,0 +1,354 @@
+*
+{
+	font-family:Verdana, Geneva, sans-serif !important;
+}
+body
+{
+	background:#CC9;
+}
+.main
+{
+	margin:auto;
+	width:1200px;
+	height:auto;
+	background:#FFF;
+	box-shadow:0 0 20px #666;
+}
+.header
+{
+	height:150px;
+	background:#005076;
+}
+.mid
+{
+	height:auto;
+	background:#FFF;
+}
+.footer
+{
+	height:150px;
+	background:#005076;
+	color:#FFF;
+}
+.header h1
+{
+	margin:auto;
+	position:absolute;
+	color:#FFF;
+	margin-left:50px;
+	margin-top:35px;
+}
+.menu ul
+{
+	margin:auto;
+	list-style:none;
+	margin-left:280px;
+	margin-top:50px;
+	position:absolute;
+}
+.menu li
+{
+	display:inline;	
+	background:#FF9;
+	padding:20px;
+	border-radius: 5px 20px 5px 20px;
+	transition:background 1s, border-radius 1s;
+}
+.menu li:hover
+{
+	border-radius: 20px 5px 20px 5px;
+	background:#F33;
+}
+.menu a
+{
+	color:#000;
+	text-decoration:none;
+	font-family:Verdana, Geneva, sans-serif;	
+}
+.footer h3
+{
+	margin:auto;
+	text-align:center;
+	line-height:150px;
+	font-family:Verdana, Geneva, sans-serif;
+	font-weight:100;
+	font-size:16px;
+}
+.para1
+{
+	margin:auto;
+	width:800px;
+	height:500px;
+}
+.para1 h1
+{
+	font-family:Verdana, Geneva, sans-serif;
+	font-size:20px;
+	margin-top:35px;
+}
+.left
+{
+	margin:auto;
+	padding-top:35px;
+	width:100%;
+}
+.vdo
+{
+	margin:auto;
+	float:right;
+	padding-top:20px;
+}
+.para1 p
+{
+	text-align:justify;
+	text-indent:25px;
+}
+.para1 a
+{
+	float:right;
+	color:#900;
+}
+.abt
+{
+	margin:auto;
+	width:700px;
+	height:400px;
+}
+.abt p
+{
+	text-align:justify;
+	text-indent:20px;
+}
+.cont
+{
+	margin:auto;
+	width:800px;
+	height:400px;
+}
+.l1
+{
+	margin:auto;
+	float:left;
+	background:#CCCC99;
+}
+.l1 td
+{
+	background:none !important;
+}
+.lft
+{
+	float:right;
+	margin:auto;
+}
+.l1 td
+{
+	
+	font-family:Verdana, Geneva, sans-serif;
+	font-weight:900;
+		
+}
+.lft 
+{
+	background:#CCCC99;
+}
+.lft td
+{
+	
+	font-family:Verdana, Geneva, sans-serif;
+	font-weight:900;
+		
+}
+.ax1
+{
+	margin:auto;
+	padding:10px;
+	font-size:16px;
+	font-family:Impact, Haettenschweiler, "Franklin Gothic Bold", "Arial Black", sans-serif;
+	width:220px;
+	border-radius:20px;
+}
+.book
+{
+	margin:auto;
+	width:700;
+	height:400;
+	
+}
+.book td
+{
+	background:#F30;
+	font-family:Verdana, Geneva, sans-serif;
+	font-weight:800;
+	box-shadow:10px 10px 10x #000;
+	text-aline:centre
+	
+}
+.book h1
+{
+	text-align:justify
+	text-indent:80px;
+	
+}
+.frm
+{
+	margin:auto;
+	width:800px;
+	text-align:center;
+	padding:20px;
+}
+.frm table
+{
+	margin:auto;
+}
+.frm td
+{
+	font-size:20px;
+}
+.a1
+{
+	font-size:20px;
+}
+.reg1
+{
+	padding: 10px 35px 10px 35px;
+	font-size:20px;
+	border:none;
+	background:linear-gradient(#0F3, #393);
+	background:-webkit-linear-gradient(#0F3, #393);
+	color:#FFF;
+	border-radius:10px
+}
+.f1
+{
+	margin:auto;
+	width:900px;	
+}
+.f1 p
+{
+	margin:auto;
+	text-align:justify;
+	text-indent:35px;
+	
+}
+.f1 h1
+{
+	margin:auto;
+	text-align:center;
+	margin-top:50px;
+}
+.flight
+{
+	margin:auto;
+	font-size:18px;
+	width:auto;
+	padding-bottom:50px;
+}
+.flight table:hover
+{
+	background:#FFC;
+}
+.flight td:hover
+{
+	background:#FC6;
+}
+.flight table
+{
+	margin:auto;
+}
+.log
+{
+	padding:50px;
+}
+.adm
+{
+	color:#FFF;
+	text-decoration:none;
+	position:absolute;
+	margin-left:50px;
+	margin-top:20px;
+}
+.thank
+{
+	margin:auto;
+	width:800px;
+	text-align:center;
+	height:350px;
+	padding:50px;
+}
+.thk
+{
+	margin:auto;
+	padding: 20px 30px 20px 30px;
+	font-size:22px;
+	border-radius:20px;
+	background:linear-gradient(#F60, #900);
+	border:none;
+	color:#FFF;
+}
+.list
+{
+	margin:auto;
+	float:left;
+	width:400px;
+	overflow:hidden;
+	margin-top:50px;
+}
+.pic
+{
+	margin:auto;
+	float:none;
+	clear:both;
+}
+.pic img
+{
+	/*margin:5px;*/
+}
+td
+{
+	background:#8CFFFF !important;
+	padding:10px;
+	font-size:16px;
+	
+}
+.booking
+{
+	margin:auto;
+	background:url(images/flights-form-cover.jpg);
+	background-size:cover;
+}
+.booking h1
+{
+	margin:auto;
+	padding-top:20px;
+	color:#FFF;
+	font-family:Tahoma, Geneva, sans-serif;
+	font-weight:100;
+}
+.booking a button
+{
+	padding: 7px 20px 7px 20px;
+	color:#FFF;
+	font-size:24px;
+	background:#C33;
+	border:none;
+	border-radius:20px;
+}
+.booking input
+{
+	padding:10px;
+	font-size:16px;	
+
+}
+.booking select
+{
+	padding:10px;
+	font-size:16px;	
+}
+.fac
+{
+	padding: 5px 20px 5px 20px;
+	margin-left:10px;
+	color:#FFF;
+	font-size:25px;
+	background:#930;
+}
